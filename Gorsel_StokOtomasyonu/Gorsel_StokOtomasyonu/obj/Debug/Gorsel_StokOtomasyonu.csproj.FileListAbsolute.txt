@@ -1,0 +1,14 @@
+D:\visual studio\Gorsel_StokOtomasyonu\Gorsel_StokOtomasyonu\bin\Debug\Gorsel_StokOtomasyonu.exe.config
+D:\visual studio\Gorsel_StokOtomasyonu\Gorsel_StokOtomasyonu\bin\Debug\Gorsel_StokOtomasyonu.exe
+D:\visual studio\Gorsel_StokOtomasyonu\Gorsel_StokOtomasyonu\bin\Debug\Gorsel_StokOtomasyonu.pdb
+D:\visual studio\Gorsel_StokOtomasyonu\Gorsel_StokOtomasyonu\obj\Debug\Gorsel_StokOtomasyonu.csprojAssemblyReference.cache
+D:\visual studio\Gorsel_StokOtomasyonu\Gorsel_StokOtomasyonu\obj\Debug\Gorsel_StokOtomasyonu.frmSatis.resources
+D:\visual studio\Gorsel_StokOtomasyonu\Gorsel_StokOtomasyonu\obj\Debug\Gorsel_StokOtomasyonu.Properties.Resources.resources
+D:\visual studio\Gorsel_StokOtomasyonu\Gorsel_StokOtomasyonu\obj\Debug\Gorsel_StokOtomasyonu.csproj.GenerateResource.cache
+D:\visual studio\Gorsel_StokOtomasyonu\Gorsel_StokOtomasyonu\obj\Debug\Gorsel_StokOtomasyonu.csproj.CoreCompileInputs.cache
+D:\visual studio\Gorsel_StokOtomasyonu\Gorsel_StokOtomasyonu\obj\Debug\Gorsel_StokOtomasyonu.exe
+D:\visual studio\Gorsel_StokOtomasyonu\Gorsel_StokOtomasyonu\obj\Debug\Gorsel_StokOtomasyonu.pdb
+D:\visual studio\Gorsel_StokOtomasyonu\Gorsel_StokOtomasyonu\obj\Debug\Gorsel_StokOtomasyonu.frmMüşteriEkle.resources
+D:\visual studio\Gorsel_StokOtomasyonu\Gorsel_StokOtomasyonu\obj\Debug\Gorsel_StokOtomasyonu.frmUrunEkle.resources
+D:\visual studio\Gorsel_StokOtomasyonu\Gorsel_StokOtomasyonu\obj\Debug\Gorsel_StokOtomasyonu.MusteriListele.resources
+D:\visual studio\Gorsel_StokOtomasyonu\Gorsel_StokOtomasyonu\obj\Debug\Gorsel_StokOtomasyonu.UrunListele.resources

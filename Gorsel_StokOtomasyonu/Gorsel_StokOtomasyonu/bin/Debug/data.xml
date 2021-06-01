@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<AppDataSet xmlns="http://tempuri.org/AppDataSet.xsd">
+  <musteri>
+    <tc>111111111</tc>
+    <adsoyad>ahmet gür</adsoyad>
+  </musteri>
+  <musteri>
+    <tc>222222222</tc>
+    <adsoyad>nur can</adsoyad>
+  </musteri>
+  <urun>
+    <barkodno>123</barkodno>
+    <kategori>işlemci</kategori>
+    <marka>ryzen</marka>
+    <urunadi>AMD RYZEN 5 5600X 3.7GHz 32MB Önbellek 6 Çekirdek AM4 7nm İşlemci</urunadi>
+    <miktari>25</miktari>
+    <alisfiyati>2789</alisfiyati>
+    <satisfiyati>3055</satisfiyati>
+    <tarih>29.12.2020</tarih>
+  </urun>
+  <urun>
+    <barkodno>124</barkodno>
+    <kategori>anakart</kategori>
+    <marka>gigabyte</marka>
+    <urunadi>GIGABYTE B450M S2H V2 3600MHz(OC) DDR4 Soket AM4 M.2 HDMI DVI VGA mATX Anakart</urunadi>
+    <miktari>42</miktari>
+    <alisfiyati>513</alisfiyati>
+    <satisfiyati>607</satisfiyati>
+    <tarih>29.12.2020</tarih>
+  </urun>
+  <satis>
+    <tc>111111111</tc>
+    <adsoyad>ahmet gür</adsoyad>
+    <barkodno>123</barkodno>
+    <urunadi>AMD RYZEN 5 5600X 3.7GHz 32MB Önbellek 6 Çekirdek AM4 7nm İşlemci</urunadi>
+    <miktari>2</miktari>
+    <satisfiyati>3055</satisfiyati>
+    <toplamfiyat>6110</toplamfiyat>
+    <tarih>10.01.2021 22:17:00</tarih>
+  </satis>
+  <satis>
+    <tc>222222222</tc>
+    <adsoyad>nur can</adsoyad>
+    <barkodno>124</barkodno>
+    <urunadi>GIGABYTE B450M S2H V2 3600MHz(OC) DDR4 Soket AM4 M.2 HDMI DVI VGA mATX Anakart</urunadi>
+    <miktari>5</miktari>
+    <satisfiyati>607</satisfiyati>
+    <toplamfiyat>3035</toplamfiyat>
+    <tarih>10.01.2021 22:18:18</tarih>
+  </satis>
+</AppDataSet>
